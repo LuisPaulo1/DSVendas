@@ -21,12 +21,12 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 ![Arquitetura](https://github.com/LuisPaulo1/assets/blob/master/Padrao-camadas.png)
 
 # Tecnologias utilizadas
-## Back end
+## Backend
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
-## Front end
+## Frontend
 - HTML / CSS / JS / TypeScript
 - ReactJS
 - Apex Charts
@@ -38,7 +38,7 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 
 # Como executar o projeto
 
-## Back end
+## Backend
 Pré-requisitos: Java 11
 
 ```bash
@@ -52,7 +52,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front end
+## Frontend
 Pré-requisitos: npm / yarn
 
 ```bash
