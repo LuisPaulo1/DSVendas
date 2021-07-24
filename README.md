@@ -53,7 +53,7 @@ cd backend
 ```
 
 ## Frontend
-Pré-requisitos: npm / yarn
+Pré-requisitos: yarn
 
 ```bash
 # clonar repositório
