@@ -1,4 +1,4 @@
-# Big Game Survey 
+# DSVendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuisPaulo1/spring-react/blob/master/LICENSE) 
 
 # Sobre o projeto
