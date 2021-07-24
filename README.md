@@ -43,9 +43,9 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/LuisPaulo1/spring-react.git
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto backend
 cd backend
 
 # executar o projeto
@@ -57,10 +57,10 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/LuisPaulo1/spring-react.git
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd frontend
 
 # instalar dependências
 yarn install
