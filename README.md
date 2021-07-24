@@ -17,7 +17,7 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/LuisPaulo1/assets/blob/master/Diagrama-de-classes.png)
 
-## Arquitetura da Aplicação
+## Arquitetura da aplicação
 ![Arquitetura](https://github.com/LuisPaulo1/assets/blob/master/Padrao-camadas.png)
 
 # Tecnologias utilizadas
@@ -59,7 +59,7 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/LuisPaulo1/spring-react.git
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto frontend
 cd frontend
 
 # instalar dependências
@@ -74,4 +74,3 @@ yarn start
 Luis Paulo Campos de Souza
 
 https://www.linkedin.com/in/luis-paulo-souza-a54358134/
-
