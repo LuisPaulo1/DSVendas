@@ -9,9 +9,6 @@ DSVendas é uma aplicação full stack web construída durante a 3ª edição da
 
 Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um backend construído com Spring Boot.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
@@ -29,7 +26,6 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
 - Apex Charts
 - Expo
 ## Implantação em produção
