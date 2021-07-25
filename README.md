@@ -71,6 +71,6 @@ yarn start
 
 # Autor
 
-Luis Paulo Campos de Souza
+Luis Paulo
 
 https://www.linkedin.com/in/luis-paulo-souza-a54358134/
