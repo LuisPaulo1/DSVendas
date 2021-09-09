@@ -63,7 +63,7 @@ git clone https://github.com/LuisPaulo1/spring-react.git
 cd frontend
 
 # instalar dependências
-yarn install
+yarn
 
 # executar o projeto
 yarn start
