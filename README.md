@@ -10,15 +10,15 @@ DSVendas é uma aplicação full stack web construída durante a 3ª edição da
 Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um backend construído com Spring Boot.
 
 ## Layout web
-![Web 1](https://github.com/LuisPaulo1/assets/blob/master/pagina-inicial.png)
+![Web 1](https://github.com/LuisPaulo1/assets/blob/master/dsvendas/pagina-inicial.png)
 
-![Web 2](https://github.com/LuisPaulo1/assets/blob/master/Dashboard.jpeg)
+![Web 2](https://github.com/LuisPaulo1/assets/blob/master/dsvendas/Dashboard.jpeg)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/LuisPaulo1/assets/blob/master/Diagrama-de-classes.png)
+![Modelo Conceitual](https://github.com/LuisPaulo1/assets/blob/master/dsvendas/Diagrama-de-classes.png)
 
 ## Arquitetura da aplicação
-![Arquitetura](https://github.com/LuisPaulo1/assets/blob/master/Padrao-camadas.png)
+![Arquitetura](https://github.com/LuisPaulo1/assets/blob/master/dsvendas/Padrao-camadas.png)
 
 # Tecnologias utilizadas
 ## Backend
