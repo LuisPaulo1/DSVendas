@@ -46,7 +46,7 @@ Pré-requisitos: Java 11
 git clone https://github.com/LuisPaulo1/DSVendas.git
 
 # entrar na pasta do projeto backend
-cd backend
+cd DSVendas/backend
 
 # executar o projeto
 ./mvnw spring-boot:run
@@ -60,7 +60,7 @@ Pré-requisitos: yarn
 git https://github.com/LuisPaulo1/DSVendas.git
 
 # entrar na pasta do projeto frontend
-cd frontend
+cd DSVendas/frontend
 
 # instalar dependências
 yarn
