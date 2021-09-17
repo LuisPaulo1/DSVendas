@@ -43,7 +43,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/LuisPaulo1/spring-react.git
+git clone https://github.com/LuisPaulo1/DSVendas.git
 
 # entrar na pasta do projeto backend
 cd backend
@@ -57,7 +57,7 @@ Pré-requisitos: yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/LuisPaulo1/spring-react.git
+git https://github.com/LuisPaulo1/DSVendas.git
 
 # entrar na pasta do projeto frontend
 cd frontend
