@@ -38,13 +38,15 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 
 # Como executar o projeto
 
-## Backend
+## Clonar o repositório
+```bash
+git clone https://github.com/LuisPaulo1/DSVendas.git
+```
+
+## Para executar o backend
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
-git clone https://github.com/LuisPaulo1/DSVendas.git
-
 # entrar na pasta do projeto backend
 cd DSVendas/backend
 
@@ -52,13 +54,10 @@ cd DSVendas/backend
 ./mvnw spring-boot:run
 ```
 
-## Frontend
+## Para executar o frontend
 Pré-requisitos: yarn
 
 ```bash
-# clonar repositório
-git https://github.com/LuisPaulo1/DSVendas.git
-
 # entrar na pasta do projeto frontend
 cd DSVendas/frontend
 
